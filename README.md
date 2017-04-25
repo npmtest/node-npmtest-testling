@@ -1,6 +1,6 @@
 # npmtest-testling
 
-#### test coverage for  [testling (v1.7.1)](https://github.com/substack/testling)  [![npm package](https://img.shields.io/npm/v/npmtest-testling.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-testling) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-testling.svg)](https://travis-ci.org/npmtest/node-npmtest-testling)
+#### basic test coverage for  [testling (v1.7.1)](https://github.com/substack/testling)  [![npm package](https://img.shields.io/npm/v/npmtest-testling.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-testling) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-testling.svg)](https://travis-ci.org/npmtest/node-npmtest-testling)
 
 #### write tests for browser code
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-testling/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-testling/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-testling/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-testling/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-testling/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-testling/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-testling/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-testling/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-testling/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-testling/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-testling/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-testling/build/coverage.html/index.html)
 
